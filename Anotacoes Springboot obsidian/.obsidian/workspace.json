@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💠 1.0 Spring Initializr.md",
+                "file": "💠 4.0 Base do projeto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "💠 1.0 Spring Initializr"
+              "title": "💠 4.0 Base do projeto"
             }
           }
         ]
@@ -186,8 +186,9 @@
   "active": "13231e0696b36bc9",
   "lastOpenFiles": [
     "💠3.0 Dependências.md",
-    "💠 1.0 Spring Initializr.md",
+    "💠 4.0 Base do projeto.md",
     "💠 2.0 Maven.md",
+    "💠 1.0 Spring Initializr.md",
     "{EBD7FD59-6054-4345-802F-F15B9D2F0E40}.png",
     "{BFE03377-F8EF-42BE-8291-6C834DCAFC42}.png",
     "media/{BFE03377-F8EF-42BE-8291-6C834DCAFC42}.png",
