@@ -1,7 +1,5 @@
 package com.cosmodev.crud1.model;
-
-
-import jakarta.persistence.Id;
+import jakarta.persistence.*;
 
 @Entity(name = "product")
 @Table(name = "product")
@@ -16,13 +14,10 @@ public class Product {
     private String name;
     private Long price;
 
-    // Constructor
+    // Empty constructor needed by JPA to instantiate the entity
+    // Construtor vazio exigiado pela JPA para instanciar a entidade
 
-    public Product(Integer id, String name, Long price) {
-        this.id = id;
-        this.name = name;
-        this.price = price;
-    }
+    public Product( ) {}
 
     // Getters and Setters
 
